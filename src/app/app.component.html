@@ -1,3 +1,7 @@
-<app-header></app-header>
+<app-header />
 
-<app-banner></app-banner>
+<app-banner/>
+
+<app-category [title]="'Trending Now'" [movieList]="TrendingMovie"/>
+<app-category [title]="'New Release'" [movieList]="TopMovie"/>
+<app-category [title]="'Upcoming Release'" [movieList]="UpcomingMovie"/>

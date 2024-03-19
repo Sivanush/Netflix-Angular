@@ -1,0 +1,4 @@
+export const tmdbConfig = {
+    apikey:'9387b851d67a056e2cc75eb2f3766e98',
+    accesstoken:'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI5Mzg3Yjg1MWQ2N2EwNTZlMmNjNzVlYjJmMzc2NmU5OCIsInN1YiI6IjY1Zjg4OWIwZTE5NGIwMDE3Y2MxMmUxMCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.0n-MBuizCgI8FXuSvubZ_SjaVZPOobzv9hmiHvpMTxg'
+}
